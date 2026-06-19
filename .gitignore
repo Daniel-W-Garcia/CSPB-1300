@@ -291,3 +291,5 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 /.ollamassist/conversations/b30f22a1-4518-49fc-9c8b-7ae3f0c8d6da.json
+cmake-build-*/
+.idea/
