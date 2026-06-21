@@ -90,13 +90,12 @@ a run-time error. &nbsp;
 ```
 
 > <em>Note: The above uses black boxes, but they should really just be blank spaces. I couldnt figure out how to make it look pretty any other way. </em>
-> 
+>
 
-<br/>
+<br/><br/>
 
 
 - <strong><u>R1.21</strong></u> Write an algorithm to create a tile pattern composed of alternating black and white squares, like this:
-<!-- -->
 ```markdown
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜
