@@ -152,15 +152,16 @@ a run-time error. &nbsp;
   - Sense what is in front of it: a wall, an exit, or neither.
 
   >Write an algorithm that lets the robot escape the maze. You may assume that there is an exit that is reachable by the right-hand rule. Your challenge is to deal with situations in which the path turns. The robot can’t see turns. It can only see what is directly in front of it.
-<br/>
+  >
+<br/><br/>
 - <strong><u>Business R1.25</strong></u> Suppose you received a loyalty promotion that lets you purchase one item, valued up to \$100, from an online catalog. You want to make the best of the offer. You have a list of all items for sale, some of which are less than \$100, some more. Write an algorithm to produce the item that is closest to \$100. If there is more than one such item, list them all. Remember that a computer will inspect one item at a time––it can’t just glance at a list and find the best one.
   <br/><br/>
 - <strong><u><p>Engineering R1.26</strong></u> A television manufacturer advertises that a television set has a certain size, measured diagonally. You wonder how the set will fit into your living room. Write an algorithm that yields the horizontal and vertical size of the television. Your inputs are the diagonal size and the aspect ratio (the ratio of width to height, usually 16 : 9 for television sets).
   <br/><br/>
-- <strong><u>Engineering R1.27</strong></u> Cameras today can correct “red eye” problems caused when the photo flash makes eyes look red. Write pseudocode for an algorithm that can detect red eyes. Your input is a pattern of colors, such as that shown below.</p> <br/>
+- <strong><u>Engineering R1.27</strong></u> Cameras today can correct “red eye” problems caused when the photo flash makes eyes look red. Write pseudocode for an algorithm that can detect red eyes. Your input is a pattern of colors, such as that shown below.</p> 
 
-  <p>You are given the number of rows and columns. For any row or column number, you can query the color, which will be red, black, or something else. If you find that the center of the black pixels coincides with the center of the red pixels, you have found a red eye, and your output should be “yes”. Otherwise, your output is “no”.</p> <br/><br/>
-
+  > You are given the number of rows and columns. For any row or column number, you can query the color, which will be red, black, or something else. If you find that the center of the black pixels coincides with the center of the red pixels, you have found a red eye, and your output should be “yes”. Otherwise, your output is “no”.
+  >
 - <strong><u>Engineering R1.28</strong></u> The San Francisco taxi commission set the following rates for 2017:
   - First 1/5th of a mile: \$3.50
   - Each additional 1/5th of a mile or fraction thereof: \$0.55
