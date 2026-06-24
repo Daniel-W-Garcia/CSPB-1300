@@ -14,3 +14,5 @@ cmake-build-release/
 *.exe
 *.out
 *.app
+/Chapter_1/Ch_1_ExAnswers.txt
+/Chapter_1/Review_Exercises.odt

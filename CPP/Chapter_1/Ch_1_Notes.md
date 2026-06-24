@@ -56,7 +56,7 @@ cout << "Hello World\n"; // this is the same as "cout << "Hello World << endl;
   - Anytime the output is not what you expected, there is a logic error
 
 ## Pseudocode
-- There are no strict requirments
+- There are no strict requirements
 - Book examples:
   - Use statements such as the following to describe how a value is set or changed:
     - total cost = purchase price + operating cost
